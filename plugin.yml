@@ -1,0 +1,6 @@
+name: DemonicCombo
+author: "DemonicDev"
+version: 0.0.2
+api: 4.0.0
+main: DemonicCombo\DemonicDev\Main
+description: "Simple and Advanced Combo-System by DemonicDev"

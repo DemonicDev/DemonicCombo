@@ -5,4 +5,5 @@ branches:
 projects:
   DemonicCombo:
     path: ""
+    icon: "icon.png"
 ...

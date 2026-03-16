@@ -1,6 +1,6 @@
 name: DemonicCombo
 author: "DemonicDev"
 version: 1.0.0
-api: 4.0.0
+api: [5.0.0]
 main: DemonicCombo\DemonicDev\Main
-description: "Simple Combo-System by DemonicDev, my Discord: Tijmen2004#7319"
+description: "Simple Combo-System by DemonicDev"

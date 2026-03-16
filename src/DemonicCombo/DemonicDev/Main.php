@@ -11,6 +11,7 @@ class Main extends PluginBase implements Listener{
 	
 	public function onEnable() : void{ 
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
+		//$this->getConfig(); //later config to customise PVP system
 	} 
 	
 	public function combo(EntityDamageByEntityEvent $ev){
